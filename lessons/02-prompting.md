@@ -238,8 +238,8 @@ That’s great. Now give me one memorable analogy I could use to explain this to
 
 ## 🔗 Further Reading
 
-- [Google Gemini Prompting Guide 101](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf) ← the source for this module
-- [Anthropic Prompt Engineering Guide](https://docs.claude.ai/en/docs/build-with-claude/prompt-engineering/overview)
+- [Google Gemini Prompting Guide 101](https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf) ← the source for this module
+- [Anthropic Prompt Engineering Guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
 - [Prompt Templates →](../resources/prompt-templates.md)
 
 ---
